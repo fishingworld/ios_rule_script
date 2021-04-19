@@ -1,5 +1,5 @@
 #!name=AllInOne
-#!desc=最后更新时间 2021-04-17 00:16:07
+#!desc=最后更新时间 2021-04-20 02:21:09
 #!author=blackmatrix7
 #!repo=https://github.com/blackmatrix7/ios_rule_script
 #!rewrite=828
@@ -211,6 +211,7 @@ USER-AGENT,avos*,REJECT
 ^https?:\/\/api\.daydaycook\.com\.cn\/daydaycook\/server\/ad\/ - reject
 ^https?:\/\/api\.douban\.com\/v2\/app_ads\/common_ads - reject
 ^https?:\/\/api\.douban\.com\/v2\/app_ads\/splash - reject
+^https?:\/\/api\.eshimin\.com\/api\/core\/version - reject
 ^https?:\/\/api\.feng\.com[\s\S]*?Claunch_screen - reject
 ^https?:\/\/api\.feng\.com\/v\d\/advertisement\/.*Claunch - reject
 ^https?:\/\/api\.fengshows\.com\/api\/launchAD - reject
@@ -245,7 +246,6 @@ USER-AGENT,avos*,REJECT
 ^https?:\/\/api\.qiuduoduo\.cn\/guideimage - reject
 ^https?:\/\/api\.rr\.tv\/.*?(getAll|Version) - reject
 ^https?:\/\/api\.rr\.tv\/ad\/ - reject
-^https?:\/\/api\.share\.mob\.com\/snsconf - reject
 ^https?:\/\/api\.smzdm\.com\/v2\/util\/banner - reject
 ^https?:\/\/api\.smzdm\.com\/v\d\/util\/(banner|loading) - reject
 ^https?:\/\/api\.smzdm\.com\/v\d\/util\/loading - reject

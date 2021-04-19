@@ -1,5 +1,5 @@
 #!name=AllInOne
-#!desc=最后更新时间 2021-04-19 02:19:27
+#!desc=最后更新时间 2021-04-20 02:21:09
 #!author=blackmatrix7
 #!repo=https://github.com/blackmatrix7/ios_rule_script
 #!rewrite=828
@@ -589,6 +589,7 @@ USER-AGENT,avos*,REJECT
 ^https?:\/\/api\.caijingmobile\.com\/(ad|advert)\/ data="https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/blank/blank.txt"
 ^https?:\/\/api\.douban\.com\/v2\/app_ads\/common_ads data="https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/blank/blank.gif"
 ^https?:\/\/api\.douban\.com\/v2\/app_ads\/splash data="https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/blank/blank.txt"
+^https?:\/\/api\.eshimin\.com\/api\/core\/version data="https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/blank/blank_dict.json"
 ^https?:\/\/api\.feng\.com\/v\d\/advertisement\/.*Claunch data="https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/blank/blank.txt"
 ^https?:\/\/api\.fengshows\.com\/api\/launchAD data="https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/blank/blank.gif"
 ^https?:\/\/api\.jxedt\.com\/jump\/EMiCcDNp data="https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/blank/blank.gif"
@@ -600,7 +601,6 @@ USER-AGENT,avos*,REJECT
 ^https?:\/\/api\.mddcloud\.com\.cn\/api\/advert\/getHomepage\.action data="https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/blank/blank.gif"
 ^https?:\/\/api\.mobile\.youku\.com\/layout\/search\/hot\/word data="https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/blank/blank.gif"
 ^https?:\/\/api\.newad\.ifeng\.com\/ClientAdversApi1508\?adids= data="https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/blank/blank.gif"
-^https?:\/\/api\.share\.mob\.com\/snsconf data="https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/blank/blank_dict.json"
 ^https?:\/\/api\.smzdm\.com\/v2\/util\/banner data="https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/blank/blank.gif"
 ^https?:\/\/api\.ycapp\.yiche\.com\/appnews\/getadlist data="https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/blank/blank.gif"
 ^https?:\/\/api\.ycapp\.yiche\.com\/yicheapp\/getadlist data="https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/blank/blank.gif"
