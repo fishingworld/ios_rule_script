@@ -1,14 +1,14 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-04-21 02:22:12
+# UPDATED: 2021-04-22 02:22:56
 # DOMAIN: 43
-# DOMAIN-SUFFIX: 27958
+# DOMAIN-SUFFIX: 27943
 # USER-AGENT: 11
 # DOMAIN-KEYWORD: 29
 # IP-CIDR: 88
 # IP-CIDR6: 3
-# TOTAL: 28132
+# TOTAL: 28117
 amp.akamaized.net
 apple.com.akadns.net
 assets-priconne-redive-us.akamaized.net
@@ -580,7 +580,6 @@ www-cdn.icloud.com.akadns.net
 .22966.com
 .22gg940.com
 .22jinsha.com
-.22leto.com
 .22letou.com
 .233.t28.net
 .2333666.xyz
@@ -701,6 +700,7 @@ www-cdn.icloud.com.akadns.net
 .3288js.com
 .32red.com
 .32thing.com
+.33.csh.ro
 .33.jezets.com
 .33007.com
 .33065.com
@@ -771,6 +771,7 @@ www-cdn.icloud.com.akadns.net
 .36pp.net
 .36rain.com
 .36sss.net
+.36tou.com
 .36tt.net
 .36vv.net
 .37.info.tm
@@ -1197,7 +1198,7 @@ www-cdn.icloud.com.akadns.net
 .669d.tv
 .66dofan.com
 .66go.vip
-.66let.com
+.66leto.com
 .66van.com
 .677.biz.tm
 .677324.com
@@ -1210,7 +1211,6 @@ www-cdn.icloud.com.akadns.net
 .6888zr.com
 .68db.com
 .68letou.com
-.68tou.com
 .69.mu
 .6966699.com
 .69990f.com
@@ -1225,7 +1225,6 @@ www-cdn.icloud.com.akadns.net
 .6f1111.com
 .6f3333.com
 .6f9999.com
-.6hccbb.com
 .6hch.com
 .6j6.top
 .6park.com
@@ -4896,7 +4895,6 @@ www-cdn.icloud.com.akadns.net
 .btunnel.com
 .btxtv.com
 .btxvxv.com
-.bu33.net
 .bu87.com
 .bubendorf.net
 .bubla.fi
@@ -6529,7 +6527,6 @@ www-cdn.icloud.com.akadns.net
 .csdc8888.com
 .csdparty.com
 .csgolounge.com
-.csh.ro
 .csifund.org
 .csis.org
 .cslpldyb.me
@@ -8229,7 +8226,6 @@ www-cdn.icloud.com.akadns.net
 .eraysoft.com.tr
 .erenta.ru
 .erepublik.com
-.ericslezak.com
 .ericsson
 .erights.net
 .erikaochsner.ch
@@ -10781,7 +10777,6 @@ www-cdn.icloud.com.akadns.net
 .gruppuso.net
 .gs
 .gs-discuss.com
-.gs.jf3377.com
 .gs01.dsn02.co
 .gs108.com
 .gscanada.info
@@ -12570,7 +12565,6 @@ www-cdn.icloud.com.akadns.net
 .is-an-engineer.com
 .is-into-anime.com
 .is-uberleet.com
-.is-very-evil.org
 .is-very-good.org
 .is-very-sweet.org
 .is.gd
@@ -13156,6 +13150,7 @@ www-cdn.icloud.com.akadns.net
 .k-doujin.net
 .k.css5.pw
 .k.k818818.com
+.k.mmhz.us
 .k.ns02.top
 .k1utm.kapp-niles.com
 .k2299.com
@@ -13631,7 +13626,6 @@ www-cdn.icloud.com.akadns.net
 .le5888.com
 .le787.com
 .le881.com
-.le98.net
 .le989.com
 .le995.com
 .leadpages.net
@@ -13701,7 +13695,6 @@ www-cdn.icloud.com.akadns.net
 .lesmao.com
 .lesoir.be
 .lester850.info
-.let282.com
 .let289.com
 .let62.com
 .let66.net
@@ -13710,6 +13703,7 @@ www-cdn.icloud.com.akadns.net
 .letou-bet.com
 .letou.com
 .letou.link
+.letou1.com
 .letou114.net
 .letou118.net
 .letou123.com
@@ -13947,6 +13941,7 @@ www-cdn.icloud.com.akadns.net
 .llnwd.net
 .llnwi.net
 .llss.me
+.llxtv.com
 .lm.1731788.com
 .lmb.betway118.com
 .lmt.jbo8.com
@@ -15117,7 +15112,6 @@ www-cdn.icloud.com.akadns.net
 .mol.gov.tw
 .mol.im
 .molesports.com
-.moligirl.com
 .molihua.org
 .momentumms.com
 .mommyfucktube.com
@@ -17069,7 +17063,6 @@ www-cdn.icloud.com.akadns.net
 .partycasino.com
 .partylikeits1986.org
 .partypoker.com
-.pasache.cl
 .pascalau.ro
 .pascherbeatsmonster.com
 .pashtovoa.com
@@ -17557,7 +17550,6 @@ www-cdn.icloud.com.akadns.net
 .pjdc6633.com
 .pjdc6688.com
 .pjdc8000.com
-.pjdc8833.com
 .pjdc8866.com
 .pjdc8877.com
 .pjdc9900.com
@@ -17692,7 +17684,6 @@ www-cdn.icloud.com.akadns.net
 .popvote.hk
 .popyard.com
 .popyard.org
-.por.tw
 .porbhub.com
 .pori.hk
 .pormhub.com
@@ -18232,7 +18223,6 @@ www-cdn.icloud.com.akadns.net
 .qqjlb.com
 .qqq26.net
 .qqq578.com
-.qqqxv.com
 .qr0077.com
 .qstatus.com
 .qt-project.org
@@ -19951,7 +19941,6 @@ www-cdn.icloud.com.akadns.net
 .spotifyforbrands.com
 .spotifyjobs.com
 .spotoption.com
-.sprashivalka.com
 .spraynwash.com
 .spreadprivacy.com
 .spreadshirt.es
@@ -22991,7 +22980,6 @@ www-cdn.icloud.com.akadns.net
 .washingtondcbmw.com
 .washingtonpost.com
 .washingtontibet.org
-.washintonpost.com
 .wataru.moe
 .watch-ebay.org
 .watch8x.com
@@ -23149,7 +23137,6 @@ www-cdn.icloud.com.akadns.net
 .weir
 .weirdhentai.com
 .weisuo.ws
-.weiweicam.com
 .weiyuksj.com
 .wellplacedpixels.com
 .welovecock.com
@@ -23677,7 +23664,6 @@ www-cdn.icloud.com.akadns.net
 .www.170525.com
 .www.174sihu.com
 .www.175sihu.com
-.www.176iii.net
 .www.178yl99.com
 .www.18123cpz.com
 .www.18123xz.com
@@ -24914,7 +24900,6 @@ www-cdn.icloud.com.akadns.net
 .www.fun712.com
 .www.fun767.com
 .www.fun78.com
-.www.fun8003.com
 .www.fun803.com
 .www.fun809.com
 .www.fun88-i78.com
@@ -25492,6 +25477,7 @@ www-cdn.icloud.com.akadns.net
 .www.lawlove.org
 .www.lax71.com
 .www.lcg.com
+.www.le98.net
 .www.lead.idv.tw
 .www.leaderlive.co.uk
 .www.learningandteachinghub.com
@@ -25505,7 +25491,6 @@ www-cdn.icloud.com.akadns.net
 .www.let89.com
 .www.let98.net
 .www.letou01.com
-.www.letou1.com
 .www.letou6677.com
 .www.letou988.com
 .www.letougames.com
@@ -26238,6 +26223,7 @@ www-cdn.icloud.com.akadns.net
 .www.sumarium.com
 .www.sumarium.es
 .www.suncity.com
+.www.sundayguardianlive.com
 .www.sundayroad.net
 .www.sunfong.org.tw
 .www.superbookcity.com
@@ -26387,7 +26373,6 @@ www-cdn.icloud.com.akadns.net
 .www.torrentx.cc
 .www.totalav.com
 .www.totallynsfw.com
-.www.tou2008.com
 .www.toutou.net
 .www.toutou128.com
 .www.toutou808.com
@@ -27512,6 +27497,7 @@ www-cdn.icloud.com.akadns.net
 .yl1177.org
 .yl2233.org
 .yl2288.org
+.yl5500.org
 .yl7.com
 .yl9936.com
 .ylg20.com
@@ -27967,7 +27953,6 @@ www-cdn.icloud.com.akadns.net
 .zyxel.com
 .zyzc9.com
 .zyzg.us
-.zz383.net
 .zz757.net
 .zz811.com
 .zz9515.pw

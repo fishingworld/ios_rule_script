@@ -1,17 +1,17 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-04-21 02:22:13
+# UPDATED: 2021-04-22 02:22:57
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN: 48
-# DOMAIN-SUFFIX: 27938
+# DOMAIN-SUFFIX: 27923
 # USER-AGENT: 48
 # DOMAIN-KEYWORD: 42
 # IP-CIDR: 128
 # IP-CIDR6: 3
 # PROCESS-NAME: 1
 # URL-REGEX: 1
-# TOTAL: 28209
+# TOTAL: 28194
 amp.akamaized.net
 apple.com.akadns.net
 assets-priconne-redive-us.akamaized.net
@@ -587,7 +587,6 @@ www.icloud.com
 .22966.com
 .22gg940.com
 .22jinsha.com
-.22leto.com
 .22letou.com
 .233.t28.net
 .2333666.xyz
@@ -708,6 +707,7 @@ www.icloud.com
 .3288js.com
 .32red.com
 .32thing.com
+.33.csh.ro
 .33.jezets.com
 .33007.com
 .33065.com
@@ -778,6 +778,7 @@ www.icloud.com
 .36pp.net
 .36rain.com
 .36sss.net
+.36tou.com
 .36tt.net
 .36vv.net
 .37.info.tm
@@ -1206,7 +1207,7 @@ www.icloud.com
 .669d.tv
 .66dofan.com
 .66go.vip
-.66let.com
+.66leto.com
 .66van.com
 .677.biz.tm
 .677324.com
@@ -1219,7 +1220,6 @@ www.icloud.com
 .6888zr.com
 .68db.com
 .68letou.com
-.68tou.com
 .69.mu
 .6966699.com
 .69990f.com
@@ -1234,7 +1234,6 @@ www.icloud.com
 .6f1111.com
 .6f3333.com
 .6f9999.com
-.6hccbb.com
 .6hch.com
 .6j6.top
 .6park.com
@@ -4898,7 +4897,6 @@ www.icloud.com
 .btunnel.com
 .btxtv.com
 .btxvxv.com
-.bu33.net
 .bu87.com
 .bubendorf.net
 .bubla.fi
@@ -6530,7 +6528,6 @@ www.icloud.com
 .csdc8888.com
 .csdparty.com
 .csgolounge.com
-.csh.ro
 .csifund.org
 .csis.org
 .cslpldyb.me
@@ -8231,7 +8228,6 @@ www.icloud.com
 .eraysoft.com.tr
 .erenta.ru
 .erepublik.com
-.ericslezak.com
 .ericsson
 .erights.net
 .erikaochsner.ch
@@ -10782,7 +10778,6 @@ www.icloud.com
 .gruppuso.net
 .gs
 .gs-discuss.com
-.gs.jf3377.com
 .gs01.dsn02.co
 .gs108.com
 .gscanada.info
@@ -12572,7 +12567,6 @@ www.icloud.com
 .is-an-engineer.com
 .is-into-anime.com
 .is-uberleet.com
-.is-very-evil.org
 .is-very-good.org
 .is-very-sweet.org
 .is.gd
@@ -13159,6 +13153,7 @@ www.icloud.com
 .k-doujin.net
 .k.css5.pw
 .k.k818818.com
+.k.mmhz.us
 .k.ns02.top
 .k1utm.kapp-niles.com
 .k2299.com
@@ -13636,7 +13631,6 @@ www.icloud.com
 .le5888.com
 .le787.com
 .le881.com
-.le98.net
 .le989.com
 .le995.com
 .leadpages.net
@@ -13705,7 +13699,6 @@ www.icloud.com
 .lesmao.com
 .lesoir.be
 .lester850.info
-.let282.com
 .let289.com
 .let62.com
 .let66.net
@@ -13714,6 +13707,7 @@ www.icloud.com
 .letou-bet.com
 .letou.com
 .letou.link
+.letou1.com
 .letou114.net
 .letou118.net
 .letou123.com
@@ -13949,6 +13943,7 @@ www.icloud.com
 .llnwd.net
 .llnwi.net
 .llss.me
+.llxtv.com
 .lm.1731788.com
 .lmb.betway118.com
 .lmt.jbo8.com
@@ -15120,7 +15115,6 @@ www.icloud.com
 .mol.gov.tw
 .mol.im
 .molesports.com
-.moligirl.com
 .molihua.org
 .momentumms.com
 .mommyfucktube.com
@@ -17073,7 +17067,6 @@ www.icloud.com
 .partycasino.com
 .partylikeits1986.org
 .partypoker.com
-.pasache.cl
 .pascalau.ro
 .pascherbeatsmonster.com
 .pashtovoa.com
@@ -17561,7 +17554,6 @@ www.icloud.com
 .pjdc6633.com
 .pjdc6688.com
 .pjdc8000.com
-.pjdc8833.com
 .pjdc8866.com
 .pjdc8877.com
 .pjdc9900.com
@@ -17697,7 +17689,6 @@ www.icloud.com
 .popvote.hk
 .popyard.com
 .popyard.org
-.por.tw
 .porbhub.com
 .pori.hk
 .pormhub.com
@@ -18238,7 +18229,6 @@ www.icloud.com
 .qqjlb.com
 .qqq26.net
 .qqq578.com
-.qqqxv.com
 .qr0077.com
 .qstatus.com
 .qt-project.org
@@ -19951,7 +19941,6 @@ www.icloud.com
 .spotifyforbrands.com
 .spotifyjobs.com
 .spotoption.com
-.sprashivalka.com
 .spraynwash.com
 .spreadprivacy.com
 .spreadshirt.es
@@ -22988,7 +22977,6 @@ www.icloud.com
 .washingtondcbmw.com
 .washingtonpost.com
 .washingtontibet.org
-.washintonpost.com
 .wataru.moe
 .watch-ebay.org
 .watch8x.com
@@ -23147,7 +23135,6 @@ www.icloud.com
 .weir
 .weirdhentai.com
 .weisuo.ws
-.weiweicam.com
 .weiyuksj.com
 .wellplacedpixels.com
 .welovecock.com
@@ -23675,7 +23662,6 @@ www.icloud.com
 .www.170525.com
 .www.174sihu.com
 .www.175sihu.com
-.www.176iii.net
 .www.178yl99.com
 .www.18123cpz.com
 .www.18123xz.com
@@ -24909,7 +24895,6 @@ www.icloud.com
 .www.fun712.com
 .www.fun767.com
 .www.fun78.com
-.www.fun8003.com
 .www.fun803.com
 .www.fun809.com
 .www.fun88-i78.com
@@ -25485,6 +25470,7 @@ www.icloud.com
 .www.lawlove.org
 .www.lax71.com
 .www.lcg.com
+.www.le98.net
 .www.lead.idv.tw
 .www.leaderlive.co.uk
 .www.learningandteachinghub.com
@@ -25498,7 +25484,6 @@ www.icloud.com
 .www.let89.com
 .www.let98.net
 .www.letou01.com
-.www.letou1.com
 .www.letou6677.com
 .www.letou988.com
 .www.letougames.com
@@ -26228,6 +26213,7 @@ www.icloud.com
 .www.sumarium.com
 .www.sumarium.es
 .www.suncity.com
+.www.sundayguardianlive.com
 .www.sundayroad.net
 .www.sunfong.org.tw
 .www.superbookcity.com
@@ -26377,7 +26363,6 @@ www.icloud.com
 .www.torrentx.cc
 .www.totalav.com
 .www.totallynsfw.com
-.www.tou2008.com
 .www.toutou.net
 .www.toutou128.com
 .www.toutou808.com
@@ -27500,6 +27485,7 @@ www.icloud.com
 .yl1177.org
 .yl2233.org
 .yl2288.org
+.yl5500.org
 .yl7.com
 .yl9936.com
 .ylg20.com
@@ -27955,7 +27941,6 @@ www.icloud.com
 .zyxel.com
 .zyzc9.com
 .zyzg.us
-.zz383.net
 .zz757.net
 .zz811.com
 .zz9515.pw
